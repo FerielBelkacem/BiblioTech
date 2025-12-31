@@ -162,7 +162,7 @@ const LibraryManagement = () => {
                 <Book className="w-5 h-5 lg:w-6 lg:h-6" />
               </div>
               <div>
-                <h1 className="text-lg lg:text-xl font-bold">LibraTech</h1>
+                <h1 className="text-lg lg:text-xl ">LibraTech</h1>
                 <p className="text-xs text-slate-400">Gestion intelligente</p>
               </div>
             </div>
