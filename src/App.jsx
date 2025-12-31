@@ -205,7 +205,7 @@ const LibraryManagement = () => {
         </nav>
 
         <div className="absolute bottom-0 left-0 right-0 p-4 border-t border-slate-700">
-          <button className="w-full flex items-center space-x-3 px-4 py-2 lg:py-3 rounded-lg hover:bg-slate-700/50 transition-all">
+          <button className="w-full flex items-center space-x-3 px-4 py-2 lg:py-3 rounded-lg hover:bg-[#1a1a1a]/50 transition-all">
             <LogOut className="w-4 h-4 lg:w-5 lg:h-5" />
             <span className="text-sm lg:text-base">Déconnexion</span>
           </button>
